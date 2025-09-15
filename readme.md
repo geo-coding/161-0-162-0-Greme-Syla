@@ -40,9 +40,12 @@ LIVADHËT
 
 
 ```
+258/2025
 Sulejman (Nuredin) Nuredini
 1006182891
 +38344772826
 Greme
+00161-0,00162-0
 
+12 Sep 2025
 ```
